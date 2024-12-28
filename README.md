@@ -1717,12 +1717,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-            <a href="https://github.com/jprabhat">
-                <img src="https://avatars.githubusercontent.com/u/147523917?v=4" width="100px;" alt="Prabhat Jha"/>
+            <a href="https://github.com/Tushar89593">
+                <img src="https://avatars.githubusercontent.com/u/66107963?v=4" width="100px;" alt="Tushar Singh"/>
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+
+        
         </tr>
     </tbody>
 </table>
