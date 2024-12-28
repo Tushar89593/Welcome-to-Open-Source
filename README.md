@@ -1720,7 +1720,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <a href="https://github.com/Tushar89593">
                 <img src="https://avatars.githubusercontent.com/u/66107963?v=4" width="100px;" alt="Tushar Singh"/>
                 <br />
-                <sub><b>Prabhat Jha</b></sub>
+                <sub><b>Tushar SIngh</b></sub>
             </a>
         </td>
 
